@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-input-feild {
+  margin-bottom: 1rem;
+}
+
+.form-control {
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  height: 3rem;
+  border-radius: 0.5rem;
+  font-size: 1.6rem;
+  padding-left: 1rem;
+  font-weight: lighter;
+}
+.btn {
+  margin: 1rem;
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: 400 !important;
+  background-color: black;
+  color: #fff;
+  padding: 23px 50px;
+
+  text-align: center;
+  display: inline-block !important;
+  text-decoration: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
